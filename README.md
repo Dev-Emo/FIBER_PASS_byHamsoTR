@@ -120,3 +120,10 @@ Derleme işlemi bittiğinde çalıştırılabilir dosya `dist/` klasörü altın
 
 ### 👨‍💻 Credits / Emeği Geçenler
 Designed and developed with ❤️ by **HamsoTR**.
+
+---
+
+<!-- 
+SEO Anahtar Kelimeler / Search Keywords:
+fiber şifresi öğrenme, gpon şifresi öğrenme, wan şifresi bulma, pppoe kullanıcı adı şifre öğrenme, superonline şifre bulucu, fiber şifre extractor, modem şifresi yakalama, hamsotr, fiber pass, keenetic şifre öğrenme, asus router şifre bulma, pppoe password sniffer, fiber internet şifre öğrenme, fiber pass by hamsotr, fiber şifre kırma, router şifresi öğrenme, gpon şifresi bulma
+-->
